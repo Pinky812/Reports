@@ -1,0 +1,2 @@
+Employee's Report link : 
+https://app.powerbi.com/view?r=eyJrIjoiNTcyN2YwZDgtZDBmZS00YThjLWFmMTAtMDQ5ZjljYWQwNDk0IiwidCI6ImFhYzE4OGY0LWMwYWItNGY3Yi1iOWQzLTFiYjU4NGQ0ZDQxOSJ9
